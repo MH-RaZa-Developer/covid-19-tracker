@@ -1,0 +1,25 @@
+input{
+    width: 100%;
+    border: none;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #1e272e;
+    font-size: 18px;
+    color: #fff;
+    padding-left: 20px;
+}
+
+input::placeholder{
+    font-size: 18px;
+}
+
+.searchBar{
+    margin: 15px;
+}
+
+.bodyCard{
+    background-color: #4b4b4b;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 0;
+}
